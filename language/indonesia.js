@@ -96,7 +96,7 @@ exports.UmurXReg = () =>{
 	return`Umur kamu terlalu tua, bukannya mati ehh malah main bot`
 	}
 exports.firstChat = (a, b, c) =>{
-	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?`
+	return`Selamat ${a} ${b} 🤵🏻‍♀️, saya adalah ${c} yaitu asisten rio san. Ada yang bisa Nino bantu?`
 	}
 exports.StartAbsen = () =>{
 	return`Mulai Absen`
